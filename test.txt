@@ -7,3 +7,5 @@ This my latest changes for github text file
 This is for Farhad
 
 Just deleted and added again
+
+opened from sublime
